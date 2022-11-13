@@ -44,3 +44,7 @@ inoremap < <><Esc>i
 inoremap { {}<Esc>i
 inoremap ' ''<Esc>i
 inoremap " ""<Esc>i
+
+" 显示隐藏字符
+set list
+
