@@ -48,3 +48,5 @@ inoremap " ""<Esc>i
 " 显示隐藏字符
 set list
 
+" 配置符号显示不可见字符
+set listchars=tab:~~,space:·,extends:>,precedes:<
