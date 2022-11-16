@@ -7,8 +7,8 @@ syntax on
 " 底部显示处于命令模式还是插入模式
 set showmode
 
-" 支持鼠标
-set mouse=a
+" 支持鼠标及标准系统复制
+set mouse=r
 
 " 使用utf-8编码
 set encoding=utf-8
