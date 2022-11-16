@@ -50,3 +50,6 @@ set list
 
 " 配置符号显示不可见字符
 set listchars=tab:~~,space:·,extends:>,precedes:<
+
+" 配置显示所有窗口的状态栏
+set laststatus=2
