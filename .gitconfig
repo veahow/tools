@@ -1,3 +1,5 @@
 [user]
 	name = veahow
 	email = 15228088+veahow@users.noreply.github.com
+[diff "utf16"]
+	textconv = iconv -f utf-16 -t utf-8
